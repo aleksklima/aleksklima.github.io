@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFFF;
+  color: #787878;
+}
+header {
+  text-align: center;
+}
+img {
+  text-align: left;
+}
+p, li {
+  text-align:left;
+  color: #989898;
+}
